@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Here the live link of the site. :- https://the-blogsite-by-ayush.netlify.app/
+
+I have uploaded the build package in the files sections because uploading the whole react project including node modules is not a good practise..
+
+Thanks..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
